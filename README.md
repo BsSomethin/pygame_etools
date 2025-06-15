@@ -1,1 +1,2 @@
 # pygame_etools
+'''Hi This Is my Little project of Pygame etools there is yet only easy print and x,y converter the xy converter converts the event.x and event.y cords of fingers to understandable cords I tried to find something on internet but i could not find anything about finger cords so i tried and tried and in the pocess I made eprint and then the main goal xy converter i will continue to add more maybe'''
